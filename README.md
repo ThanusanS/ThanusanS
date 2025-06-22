@@ -89,8 +89,8 @@
 
 ## 🚀 Featured Projects
 
-- [Smart Water Management System](https://github.com/yourusername/smart-water-management)  
-  IoT + AI project for real-time water quality monitoring and prediction.
+- [Moving Object Detection using OpenCV](https://github.com/ThanusanS/Moving-Object-Detection)  
+  Real-time moving object detection system built with Python and OpenCV
 
 - [Full Stack E-Commerce Platform](https://github.com/yourusername/fullstack-ecommerce)  
   MERN stack app with secure authentication, payment integration, and analytics dashboard.
