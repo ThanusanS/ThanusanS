@@ -24,27 +24,7 @@
 
 ---
 
-## 🏢 Internships
 
-- **Artificial Intelligence and Data Analytics Intern**  
-  _Developed and deployed machine learning models for real-world use cases. Performed data preprocessing, analysis, and predictive modeling using Python and key ML libraries._
-
-- **UI/UX Design Intern**  
-  _Designed intuitive, user-focused interfaces for web and mobile applications. Created wireframes and prototypes, and collaborated with developers to ensure smooth implementation.._
-
----
-
-## 📜 Certifications
-
-- **Machine Learning Specialization**  
-  _Andrew Ng, Stanford University_  
-   [View Certificate](https://coursera.org/share/a828bf183eb9bb63501e4db268668e44)
-
-- **Crash Course on Python**  
-  _Google_  
-  [View Certificate](https://coursera.org/share/fbc1ca501a4a7441685fc4676879f662)
-
----
 
 ## 🛠️ Skills & Tools
 
@@ -87,6 +67,28 @@
 
 ---
 
+## 🏢 Internships
+
+- **Artificial Intelligence and Data Analytics Intern**  
+  _Developed and deployed machine learning models for real-world use cases. Performed data preprocessing, analysis, and predictive modeling using Python and key ML libraries._
+
+- **UI/UX Design Intern**  
+  _Designed intuitive, user-focused interfaces for web and mobile applications. Created wireframes and prototypes, and collaborated with developers to ensure smooth implementation.._
+
+---
+
+## 📜 Certifications
+
+- **Machine Learning Specialization**  
+  _Andrew Ng, Stanford University_  
+   [View Certificate](https://coursera.org/share/a828bf183eb9bb63501e4db268668e44)
+
+- **Crash Course on Python**  
+  _Google_  
+  [View Certificate](https://coursera.org/share/fbc1ca501a4a7441685fc4676879f662)
+
+---
+
 ## 🚀 Featured Projects
 
 - [Moving Object Detection using OpenCV](https://github.com/ThanusanS/Moving-Object-Detection)  
@@ -109,7 +111,7 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ThanusanS&show_icons=true&theme=radical" height="150">
+  
   <img src="https://github-readme-streak-stats.herokuapp.com?user=ThanusanS&theme=radical&date_format=M%20j%5B%2C%20Y%5D" height="150">
 </p>
 
