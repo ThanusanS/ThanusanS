@@ -94,7 +94,7 @@
 - [Moving Object Detection using OpenCV](https://github.com/ThanusanS/Moving-Object-Detection)  
   Real-time moving object detection system built with Python and OpenCV
 
-- [Full Stack E-Commerce Platform](https://github.com/yourusername/fullstack-ecommerce)  
+- [Full Stack E-Commerce Platform](https://github.com/ThanusanS/ecommerce-web-shophub.)  
   MERN stack app with secure authentication, payment integration, and analytics dashboard.
 
 - [AI-Powered Resume Screener](https://github.com/yourusername/ai-resume-screener)  
